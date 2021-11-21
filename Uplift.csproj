@@ -23,4 +23,9 @@
     <ProjectReference Include="..\Uplift.DataAccess\Uplift.DataAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Frequency\Data\" />
+    <Folder Include="Areas\Frequency\Models\" />
+  </ItemGroup>
+
 </Project>
